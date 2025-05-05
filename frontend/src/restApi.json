@@ -1,0 +1,158 @@
+{
+  "data": [
+    {
+      "ourQualities": [
+        {
+          "id": 1,
+          "image": "./quality_food.svg",
+          "title": "QUALITY FOOD",
+          "description": "We serve high-quality food made with the freshest ingredients and traditional recipes to ensure every meal is delicious and wholesome."
+        },
+        {
+          "id": 2,
+          "image": "./super_taste.svg",
+          "title": "SUPER TASTE",
+          "description": "Our dishes are crafted to deliver super taste, with rich flavors and authentic spices that make every bite a delightful experience."
+        },
+        {
+          "id": 3,
+          "image": "./fast_delivery.svg",
+          "title": "FAST DELIVERY",
+          "description": "We guarantee fast delivery, ensuring your meal arrives hot, fresh, and on time, right to your doorstep."
+        }
+      ],
+      "dishes": [
+        {
+          "id": 1,
+          "image": "./dinner2.png",
+          "title": "CITRUS CURED SALMON",
+          "category": "Dinner"
+        },
+
+        {
+          "id": 2,
+          "image": "./dinner3.png",
+          "title": "STUFFED STRAWBERRY",
+          "category": "Dinner"
+        },
+
+        {
+          "id": 3,
+          "image": "./dinner4.png",
+          "title": "MUSSELS SOUP",
+          "category": "Dinner"
+        },
+        {
+          "id": 4,
+          "image": "./dinner5.png",
+          "title": "ITALIAN SPAGHETTI",
+          "category": "Dinner"
+        },
+        {
+          "id": 5,
+          "image": "./dinner6.png",
+          "title": "GRILLED FISH",
+          "category": "Dinner"
+        }
+      ],
+      "team": [
+        {
+          "id": 1,
+          "image": "./team_member_1.png",
+          "name": "Prince",
+          "designation": "Founder & Head Chef"
+        },
+        {
+          "id": 2,
+          "image": "./team_member_2.png",
+          "name": "Pawan Patil",
+          "designation": "Sous Chef"
+        },
+        {
+          "id": 3,
+          "image": "./team_member_3.png",
+          "name": "Rakesh Pradhan",
+          "designation": "Fast Food Chef"
+        },
+        {
+          "id": 4,
+          "image": "./team_member_4.png",
+          "name": "Ajit Yadav",
+          "designation": "Senior Chef"
+        }
+      ],
+      "testimonials": [
+        {
+          "id": 1,
+          "image": "./review1.png",
+          "description": "Khana Ka Dhaba never disappoints! The food is always fresh, flavorful, and served with a smile. The delivery is super fast, and it's become my go-to place for quick and tasty meals!",
+          "rating": 4,
+          "userName": "Raghav Singh"
+        },
+        {
+          "id": 2,
+          "image": "./review2.png",
+          "description": "I’ve been a regular here for years, and I can confidently say that their food is unmatched in taste and quality. The authentic flavors make me feel right at home, and the service is always friendly and prompt.",
+          "rating": 4.5,
+          "userName": "Lalit Das"
+        },
+        {
+          "id": 3,
+          "image": "./review3.png",
+          "description": "Khana Ka Dhaba offers a perfect blend of delicious food and amazing service. I love their variety of dishes, and I always look forward to my next meal here. Definitely a must-try for anyone in the area!",
+          "rating": 5,
+          "userName": "Pratik Roy"
+        }
+      ],
+      "who_we_are": [
+        {
+          "id": 1,
+          "number": "3",
+          "title": "Restaurants"
+        },
+        {
+          "id": 2,
+          "number": "5",
+          "title": "Chef In Kitchen"
+        },
+        {
+          "id": 3,
+          "number": "20",
+          "title": "Years Of Experience"
+        },
+        {
+          "id": 4,
+          "number": "30",
+          "title": "Food Dishes"
+        }
+      ],
+      "navbarLinks": [
+        {
+          "id": 1,
+          "title": "HOME",
+          "link": "heroSection"
+        },
+        {
+          "id": 2,
+          "title": "ABOUT US",
+          "link": "about"
+        },
+        {
+          "id": 3,
+          "title": "SERVICES",
+          "link": "qualities"
+        },
+        {
+          "id": 4,
+          "title": "TEAM",
+          "link": "team"
+        },
+        {
+          "id": 5,
+          "title": "RESERVATION",
+          "link": "reservation"
+        }
+      ]
+    }
+  ]
+}
